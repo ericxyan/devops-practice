@@ -13,6 +13,6 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<modules>
-		<module>webapp-server</module>
+		<module>devops-webapp/webapp-server</module>
 	</modules>
 </project>
